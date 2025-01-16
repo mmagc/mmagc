@@ -39,7 +39,7 @@
   <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=mmagc&repo=Portifolio-Matheus-Gnann&theme=dark&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/mmagc/Portifolio-Matheus-Gnann)" /><br>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmagc&theme=youtube-dark&card_width=999)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmagc&theme=youtube-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <div align="center">
    <br><p align="centre"><b>Visitors Count</b></p>  

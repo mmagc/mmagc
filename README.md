@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=379434&center=true&vCenter=true&width=435&lines=Ol%C3%A1+rede!;Eu+sou+Matheus+Gnann!" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+Word!;Ol%C3%A1%2C+meu+nome+%C3%A9+Matheus+Gnann!" alt="Typing SVG" /></a>
 </h1>
 
 

@@ -35,10 +35,8 @@
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmagc&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" />
 </div>
 
-
-
 <div align="center" style="margin: 0;">
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=mmagc&theme=youtube-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mmagc&theme=youtube-dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">

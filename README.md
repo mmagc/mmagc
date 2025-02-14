@@ -35,14 +35,9 @@
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmagc&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" />
 </div>
 
-<div align="center" style="margin: 0;">
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=mmagc&repo=Pokedex&theme=dark&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/mmagc/Pokedex)" /> 
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=mmagc&repo=Portifolio-2&theme=dark&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/mmagc/Portifolio-2)" /><br>
-</div>
+
 
 <div align="center" style="margin: 0;">
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=mmagc&repo=detona-ralph-smash&theme=dark&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/mmagc/detona-ralph-smash)" /> 
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=mmagc&repo=Javascript-Yu-Gi-Oh&theme=dark&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/mmagc/Javascript-Yu-Gi-Oh)" /><br>
   <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=mmagc&theme=youtube-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
 </div>
 

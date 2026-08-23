@@ -10,7 +10,7 @@
 
 Sou desenvolvedor e estudante em **Análise e Desenvolvimento de Sistemas** na Fatec-SP. Tenho experiência em **desenvolvimento web** com **React.js**, **JavaScript**, **Spring Boot** e **SQL Server**, além de conhecimentos em **chatbots** e **automação**.
 
-- 🔭 Atualmente aprofundando conhecimentos em **desenvolvimento full-stack** e **automação de processos**
+- 🔭 Atualmente focado na área de **dados**, estudando **automações com Python**
 - 🌱 Sempre em busca de novos desafios e oportunidades para expandir minhas habilidades
 - 💬 Fale comigo sobre **React, Java, automação ou chatbots**
 - ⚡ Fun fact: gosto de transformar processos manuais em fluxos automatizados

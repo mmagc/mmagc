@@ -13,7 +13,6 @@ Sou desenvolvedor e estudante em **Análise e Desenvolvimento de Sistemas** na F
 - 🔭 Atualmente focado na área de **dados**, estudando **automações com Python**
 - 🌱 Sempre em busca de novos desafios e oportunidades para expandir minhas habilidades
 - 💬 Fale comigo sobre **React, Java, automação ou chatbots**
-- ⚡ Fun fact: gosto de transformar processos manuais em fluxos automatizados
 
 ## 🛠️ Tecnologias e Ferramentas
 
